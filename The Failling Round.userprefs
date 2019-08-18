@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Fight\FControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Fight\FMove.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\Player\Fight\FControl.cs" Line="33" Column="19" />
+      <File FileName="Assets\Scripts\Player\Fight\FHit.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
